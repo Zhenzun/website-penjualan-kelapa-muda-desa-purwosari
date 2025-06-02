@@ -47,8 +47,8 @@ A full-fledged **eCommerce solution** built on **Laravel 10**, featuring a moder
 
 ### 🔹 **Step 1: Clone the Repository**
 ```sh
-git clone https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10.git
-cd Complete-Ecommerce-in-laravel-10
+git clone https://github.com/Zhenzun/website-penjualan-kelapa-muda-desa-purwosari.git
+cd website-penjualan-kelapa-muda-desa-purwosari
 ```
 
 ### 🔹 **Step 2: Install Dependencies**
@@ -114,15 +114,12 @@ php artisan serve
 ## 📩 Contact Me
 💼 Need a **Full Stack Laravel Developer**? Let's work together!
 
-📧 **Email:** Prajwal.iar@gmail.com  
-📲 **WhatsApp:** +977-9818441226  
+📧 **Email:** kerinalramadhanfika@gmail.com  
+📲 **WhatsApp:** +62-85788011026  
 
 🔗 **[Hire Me on Upwork](https://www.upwork.com/freelancers/~01210bb2575a8c05a9)**
 
-### ☕ Support My Work
-If you find this project helpful, consider [buying me a coffee](https://buymeacoffee.com/prajwalrai/support-my-work-complete-laravel-e-commerce-project). Your support helps maintain and improve this project! 🚀
 
----
 
 ## 📜 License
 🔹 This project is **MIT Licensed** – Feel free to use & modify!
